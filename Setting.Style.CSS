@@ -1,0 +1,39 @@
+
+
+
+.box-container{
+    height: 100px;
+    width: 200px;
+    background-color: rgb(94, 255, 0);
+    border: solid 2px rgba(0, 0, 0, 0.89);
+    margin: 2px;
+}
+
+.a, .b{
+    height: 100px;
+    width: 200px;
+    border: solid 2px black;
+    margin:5px;
+}
+.a{
+    background-image: url(images/images2/iamge.png);
+    background-size: auto;
+}
+  /*  
+.box-container:first-child{
+    background-color: red;
+    position: relative;
+    position: absolute;
+    z-index: -2;
+    top: 10%;
+    left: 10%;
+    
+}
+.box-container:nth-child(4){
+    background-color: blue;
+    position: fixed;
+    position: sticky;
+    top: 30%;
+    left: 60%;
+    
+ } */
